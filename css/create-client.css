@@ -1,0 +1,9 @@
+.card .card-img-top {
+  transition: 0.3s;
+}
+
+.card:hover .card-img-top {
+  opacity: 0.7;
+  transition: 0.3s;
+}
+

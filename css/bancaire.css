@@ -1,0 +1,23 @@
+.card .card-img-top {
+  transition: 0.3s;
+}
+
+.card:hover .card-img-top {
+  opacity: 0.7;
+  transition: 0.3s;
+}
+
+.title {
+  color: #f6993f;
+}
+
+.fa-coins {
+  font-size: 20px;
+  color: #f6993f;
+}
+
+.bi-credit-card-2-front,
+.bi-dash-circle-fill {
+  color: #f6993f;
+}
+
